@@ -1,0 +1,122 @@
+Id,SortOrder,Label,Base,LowerBound,UpperBound,Activity Group,taxonomyGroupName,marketingChannelName,marketingBuyName,SPA - Factor,SPA - Format,SPA - Display,Driver,measure
+0,0,BASE,1,,,,,,,1,"$0,0.00",,,
+1,0,Impressions,0,0.8,1.2,Addressable TV - Masterbrand,,,,1,"$0,0.00",,Addressable TV - Masterbrand,addressable tv - hills equity
+2,0,Impressions,0,0.8,1.2,Addressable TV - PD Equity,,,,1,"$0,0.00",,Addressable TV - PD Equity,addressable tv - pd equity
+3,0,Impressions,0,0.8,1.2,Amazon Digital,,,,1,"$0,0.00",,Amazon Digital,sd ecomm marketing - amg
+4,0,$,0,0.8,1.2,Amazon RLM,,,,1,"$0,0.00",,Amazon RLM,sd ecomm marketing - amz rlm
+5,0,Clicks,0,0.8,1.2,Amazon Search,,,,1,"$0,0.00",,Amazon Search,sd ecomm marketing - ams
+6,0,Lbs Redeemed,0,0.8,1.2,Amazon VPC,,,,1,"$0,0.00",,Amazon VPC,sd amz marketing - vpc
+7,0,Impressions,0,0.8,1.2,Chewy Hill's-Led Media,,,,1,"$0,0.00",,Chewy Hill's-Led Media,chewy collab ads
+7,0,Impressions,0,0.8,1.2,Chewy Hill's-Led Media,,,,1,"$0,0.00",,Chewy Hill's-Led Media,chewy sponsored ads
+7,0,Impressions,0,0.8,1.2,Chewy Hill's-Led Media,,,,1,"$0,0.00",,Chewy Hill's-Led Media,pd chewy sponsored ads
+7,0,Impressions,0,0.8,1.2,Chewy Hill's-Led Media,,,,1,"$0,0.00",,Chewy Hill's-Led Media,sd chewy sponsored ads
+8,0,$,0,0.8,1.2,Chewy Promos,,,,1,"$0,0.00",,Chewy Promos,pd chw marketing - promotions
+8,0,$,0,0.8,1.2,Chewy Promos,,,,1,"$0,0.00",,Chewy Promos,sd chw marketing - promotions
+9,0,$,0,0.8,1.2,Chewy RLM,,,,1,"$0,0.00",,Chewy RLM,sd ecomm marketing - chw rlm
+10,0,Impressions,0,0.8,1.2,Consumer Print - Masterbrand,,,,1,"$0,0.00",,Consumer Print - Masterbrand,consumer print - hills equity
+11,0,Impressions,0,0.8,1.2,CTV - Hulu - Masterbrand,,,,1,"$0,0.00",,CTV - Hulu - Masterbrand,connected tv - hulu - hills equity
+12,0,Impressions,0,0.8,1.2,CTV - Hulu - PD Equity,,,,1,"$0,0.00",,CTV - Hulu - PD Equity,connected tv - hulu - pd equity
+13,0,Impressions,0,0.8,1.2,CTV - Hulu - SD Equity,,,,1,"$0,0.00",,CTV - Hulu - SD Equity,connected tv - sd - hulu - sd equity
+14,0,Impressions,0,0.8,1.2,CTV - Hulu - Weight,,,,1,"$0,0.00",,CTV - Hulu - Weight,connected tv - hulu - weight campaign
+15,0,Impressions,0,0.8,1.2,CTV - Other - Masterbrand,,,,1,"$0,0.00",,CTV - Other - Masterbrand,connected tv - other - hills equity
+16,0,Impressions,0,0.8,1.2,CTV - Other - PD Equity,,,,1,"$0,0.00",,CTV - Other - PD Equity,connected tv - other - pd equity
+16,0,Impressions,0,0.8,1.2,CTV - Other - PD Equity,,,,1,"$0,0.00",,CTV - Other - PD Equity,programmatic video - pd equity
+17,0,Impressions,0,0.8,1.2,CTV - Other - SD Equity,,,,1,"$0,0.00",,CTV - Other - SD Equity,connected tv - other - sd equity
+18,0,Impressions,0,0.8,1.2,CTV - Other - Weight,,,,1,"$0,0.00",,CTV - Other - Weight,connected tv - other - weight
+19,0,Impressions,0,0.8,1.2,Digital Display - Masterbrand,,,,1,"$0,0.00",,Digital Display - Masterbrand,programmatic video - equity other
+19,0,Impressions,0,0.8,1.2,Digital Display - Masterbrand,,,,1,"$0,0.00",,Digital Display - Masterbrand,digital display - equity - other
+20,0,Impressions,0,0.8,1.2,Digital Display - PD Handraiser,,,,1,"$0,0.00",,Digital Display - PD Handraiser,programmatic display - pd - handraiser
+21,0,Impressions,0,0.8,1.2,Digital Display - SD Handraiser,,,,1,"$0,0.00",,Digital Display - SD Handraiser,programmatic display - sd - handraiser
+22,0,Impressions,0,0.8,1.2,Digital Display - Weight,,,,1,"$0,0.00",,Digital Display - Weight,programmatic display - eq - weight campaign
+23,0,Impressions,0,0.8,1.2,Linear TV - Masterbrand,,,,1,"$0,0.00",,Linear TV - Masterbrand,linear tv - hills equity
+24,0,Lbs,0,0.8,1.2,NPPP Kits,,,,1,"$0,0.00",,NPPP Kits,nppp kits
+25,0,Impressions,0,0.8,1.2,Other Digital Video - SD Equity,,,,1,"$0,0.00",,Other Digital Video - SD Equity,programmatic video - sd - sd equity
+26,0,Clicks,0,0.8,1.2,Paid Search - Masterbrand,,,,1,"$0,0.00",,Paid Search - Masterbrand,bing - eq
+26,0,Clicks,0,0.8,1.2,Paid Search - Masterbrand,,,,1,"$0,0.00",,Paid Search - Masterbrand,paid search - eq
+27,0,Clicks,0,0.8,1.2,Paid Search - PD,,,,1,"$0,0.00",,Paid Search - PD,bing - pd
+27,0,Clicks,0,0.8,1.2,Paid Search - PD,,,,1,"$0,0.00",,Paid Search - PD,paid search - pd
+28,0,Clicks,0,0.8,1.2,Paid Search - SD,,,,1,"$0,0.00",,Paid Search - SD,bing - sd
+28,0,Clicks,0,0.8,1.2,Paid Search - SD,,,,1,"$0,0.00",,Paid Search - SD,paid search - sd
+29,0,Impressions,0,0.8,1.2,Paid Social - Masterbrand,,,,1,"$0,0.00",,Paid Social - Masterbrand,paid social - hills equity
+30,0,Impressions,0,0.8,1.2,Paid Social - Other,,,,1,"$0,0.00",,Paid Social - Other,paid social - equity - other
+30,0,Impressions,0,0.8,1.2,Paid Social - Other,,,,1,"$0,0.00",,Paid Social - Other,paid social - sd - other
+31,0,Impressions,0,0.8,1.2,Paid Social - PD Equity,,,,1,"$0,0.00",,Paid Social - PD Equity,paid social - pd - pd equity
+32,0,Impressions,0,0.8,1.2,Paid Social - PD Handraiser,,,,1,"$0,0.00",,Paid Social - PD Handraiser,paid social - pd - pd handraiser
+33,0,Impressions,0,0.8,1.2,Paid Social - SD Equity,,,,1,"$0,0.00",,Paid Social - SD Equity,paid social - sd - sd equity
+34,0,Impressions,0,0.8,1.2,Paid Social - SD Handraiser,,,,1,"$0,0.00",,Paid Social - SD Handraiser,paid social - sd - sd handraiser
+35,0,Impressions,0,0.8,1.2,Paid Social - Weight,,,,1,"$0,0.00",,Paid Social - Weight,paid social - equity - weight campaign
+36,0,$,0,0.8,1.2,PD Chewy RLM,,,,1,"$0,0.00",,PD Chewy RLM,pd ecomm marketing - chw rlm
+37,0,Redemptions,0,0.8,1.2,PD Coupons,,,,1,"$0,0.00",,PD Coupons,pd coupons - hills
+38,0,Impressions,0,0.8,1.2,PD Professional Digital,,,,1,"$0,0.00",,PD Professional Digital,professional display - pd
+39,0,Impressions,0,0.8,1.2,PD Professional Print,,,,1,"$0,0.00",,PD Professional Print,professional print - pd
+40,0,Impressions,0,0.8,1.2,PD Professional Social,,,,1,"$0,0.00",,PD Professional Social,professional social - pd
+41,0,Lbs,0,0.8,1.2,PD Promotions,,,,1,"$0,0.00",,PD Promotions,pd promotions - iso
+42,0,Lbs,0,0.8,1.2,PD Sampling,,,,1,"$0,0.00",,PD Sampling,pd sampling
+43,0,Impressions,0,0.8,1.2,PMAX - PD,,,,1,"$0,0.00",,PMAX - PD,pmax - pd equity
+44,0,Impressions,0,0.8,1.2,PMAX - SD,,,,1,"$0,0.00",,PMAX - SD,pmax - sd equity
+45,0,$,0,0.8,1.2,PMT Promos,,,,1,"$0,0.00",,PMT Promos,pmt promos
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop display - pmt
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop search - pmt
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop social - pmt
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop tv - pmt
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop ctv - pmt
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop ltv - pmt
+46,0,Impressions,0,0.8,1.2,PMT RLM,,,,1,"$0,0.00",,PMT RLM,sd coop video - pmt
+47,0,$,0,0.8,1.2,PTC Promos,,,,1,"$0,0.00",,PTC Promos,ptc promos
+48,0,Impressions,0,0.8,1.2,PTC RLM,,,,1,"$0,0.00",,PTC RLM,sd coop display - ptc
+48,0,Impressions,0,0.8,1.2,PTC RLM,,,,1,"$0,0.00",,PTC RLM,sd coop search - ptc
+48,0,Impressions,0,0.8,1.2,PTC RLM,,,,1,"$0,0.00",,PTC RLM,sd coop social - ptc
+48,0,Impressions,0,0.8,1.2,PTC RLM,,,,1,"$0,0.00",,PTC RLM,sd coop video - ptc
+49,0,Redemptions,0,0.8,1.2,SD Coupons,,,,1,"$0,0.00",,SD Coupons,sd coupons - hills - instore
+49,0,Redemptions,0,0.8,1.2,SD Coupons,,,,1,"$0,0.00",,SD Coupons,sd coupons - pmt
+49,0,Redemptions,0,0.8,1.2,SD Coupons,,,,1,"$0,0.00",,SD Coupons,sd coupons - ptc - food trigger
+49,0,Redemptions,0,0.8,1.2,SD Coupons,,,,1,"$0,0.00",,SD Coupons,sd coupons - ptc - other
+50,0,Lbs,0,0.8,1.2,Staff Feeding,,,,1,"$0,0.00",,Staff Feeding,staff feeding
+50,0,Lbs,0,0.8,1.2,Staff Feeding,,,,1,"$0,0.00",,Staff Feeding,sd staff feeding
+50,0,Lbs,0,0.8,1.2,Staff Feeding,,,,1,"$0,0.00",,Staff Feeding,pd staff feeding
+51,0,Lbs,0,0.8,1.2,Vet Non-Media Marketing,,,,1,"$0,0.00",,Vet Non-Media Marketing,compliance redemptions
+51,0,Lbs,0,0.8,1.2,Vet Non-Media Marketing,,,,1,"$0,0.00",,Vet Non-Media Marketing,conference spend
+51,0,Lbs,0,0.8,1.2,Vet Non-Media Marketing,,,,1,"$0,0.00",,Vet Non-Media Marketing,in-clinic materials - other
+51,0,Lbs,0,0.8,1.2,Vet Non-Media Marketing,,,,1,"$0,0.00",,Vet Non-Media Marketing,in-clinic materials - racks
+51,0,Lbs,0,0.8,1.2,Vet Non-Media Marketing,,,,1,"$0,0.00",,Vet Non-Media Marketing,pnc tours
+51,0,Lbs,0,0.8,1.2,Vet Non-Media Marketing,,,,1,"$0,0.00",,Vet Non-Media Marketing,seminars
+52,0,Impressions,0,0.8,1.2,YouTube - Masterbrand,,,,1,"$0,0.00",,YouTube - Masterbrand,digital video - youtube - hills equity
+52,0,Impressions,0,0.8,1.2,YouTube - Masterbrand,,,,1,"$0,0.00",,YouTube - Masterbrand,digital video - youtube - other equity
+53,0,Impressions,0,0.8,1.2,YouTube - PD Equity,,,,1,"$0,0.00",,YouTube - PD Equity,digital video - youtube - pd equity
+54,0,Impressions,0,0.8,1.2,YouTube - SD Equity,,,,1,"$0,0.00",,YouTube - SD Equity,digital video - sd - youtube - sd equity
+55,0,Impressions,0,0.8,1.2,YouTube - Weight,,,,1,"$0,0.00",,YouTube - Weight,digital video - youtube - weight campaign
+56,0,Impressions,0,0.8,1.2,CTV - Other - Switchers,,,,1,"$0,0.00",,CTV - Other - Switchers,connected tv - switchers
+56,0,Impressions,0,0.8,1.2,CTV - Other - Switchers,,,,1,"$0,0.00",,CTV - Other - Switchers,connected tv - other - switchers
+57,0,Impressions,0,0.8,1.2,Digital Display - Specialty Tentpole,,,,1,"$0,0.00",,Digital Display - Specialty Tentpole,programmatic display - equity - tentpole
+58,0,Impressions,0,0.8,1.2,Digital Video - Switchers,,,,1,"$0,0.00",,Digital Video - Switchers,digital video - switchers
+59,0,Impressions,0,0.8,1.2,Influencers,,,,1,"$0,0.00",,Influencers,influencers - hills equity
+59,0,Impressions,0,0.8,1.2,Influencers,,,,1,"$0,0.00",,Influencers,influencers - silent sufferers
+60,0,Impressions,0,0.8,1.2,Paid Social - Specialty Tentpole,,,,1,"$0,0.00",,Paid Social - Specialty Tentpole,paid social - equity - tentpole
+61,0,Impressions,0,0.8,1.2,Paid Social - Switchers,,,,1,"$0,0.00",,Paid Social - Switchers,paid social - switchers
+62,0,Impressions,0,0.8,1.2,CTS - Digital Video,,,,1,"$0,0.00",,CTS - Digital Video,digital video - cts
+63,0,Impressions,0,0.8,1.2,CTS - Linear TV,,,,1,"$0,0.00",,CTS - Linear TV,linear tv - cts
+64,0,Impressions,0,0.8,1.2,CTS - Paid Social,,,,1,"$0,0.00",,CTS - Paid Social,paid social - sd - cts
+65,0,Impressions,0,0.8,1.2,Digital Audio - Masterbrand,,,,1,"$0,0.00",,Digital Audio - Masterbrand,digital audio - hills equity
+66,0,Impressions,0,0.8,1.2,Digital Display - PD Equity,,,,1,"$0,0.00",,Digital Display - PD Equity,programmatic display - pd - pd equity
+67,0,Impressions,0,0.8,1.2,Digital Display - SD Equity,,,,1,"$0,0.00",,Digital Display - SD Equity,programmatic display - sd - sd equity
+68,0,Impressions,0,0.8,1.2,CTV - Other - Silent Sufferers,,,,1,"$0,0.00",,CTV - Other - Silent Sufferers,connected tv - silent sufferers
+69,0,Impressions,0,0.8,1.2,Digital Display - Silent Sufferers,,,,1,"$0,0.00",,Digital Display - Silent Sufferers,digital display - silent sufferers
+70,0,Impressions,0,0.8,1.2,Digital Video - Silent Sufferers,,,,1,"$0,0.00",,Digital Video - Silent Sufferers,digital video - silent sufferers
+71,0,Impressions,0,0.8,1.2,Paid Social - Silent Sufferers,,,,1,"$0,0.00",,Paid Social - Silent Sufferers,paid social - silent sufferers
+72,0,,1,1,1,Price,,,,1,"$0,0.00",,Price,price
+73,0,,1,1,1,Category,,,,1,"$0,0.00",,Category,category
+74,0,,1,1,1,Competition,,,,1,"$0,0.00",,Competition,competition
+75,0,,1,1,1,Distribution,,,,1,"$0,0.00",,Distribution,distribution
+76,0,Impressions,0,0.8,1.2,Addressable TV - Silent Sufferers,,,,1,"$0,0.00",,Addressable TV - Silent Sufferers,addressable tv - silent sufferers
+77,0,Impressions,0,0.8,1.2,CTV - Hulu - Silent Sufferers,,,,1,"$0,0.00",,CTV - Hulu - Silent Sufferers,connected tv - hulu - silent sufferers
+78,0,Impressions,0,0.8,1.2,Other Digital Video - Silent Sufferers,,,,1,"$0,0.00",,Other Digital Video - Silent Sufferers,digital video - programmatic - silent sufferers
+79,0,Impressions,0,0.8,1.2,YouTube - Silent Sufferers,,,,1,"$0,0.00",,YouTube - Silent Sufferers,digital video - youtube - silent sufferers
+80,0,Impressions,0,0.8,1.2,PTC Hills-Led Media,,,,1,"$0,0.00",,PTC Hills-Led Media,instacart
+80,0,Impressions,0,0.8,1.2,PTC Hills-Led Media,,,,1,"$0,0.00",,PTC Hills-Led Media,ptc citrus ads
+81,0,Impressions,0,0.8,1.2,PMT Hills-Led Media,,,,1,"$0,0.00",,PMT Hills-Led Media,pss hlm - petsmart collab ads
+82,0,Impressions,0,0.8,1.2,PTC Hills-Led Media,,,,1,"$0,0.00",,PTC Hills-Led Media,instacart
+82,0,Impressions,0,0.8,1.2,PTC Hills-Led Media,,,,1,"$0,0.00",,PTC Hills-Led Media,ptc citrus ads
+83,0,Impressions,0,0.8,1.2,CTV - Hulu - Switchers,,,,1,"$0,0.00",,CTV - Hulu - Switchers,connected tv - hulu - switchers
+84,0,Impressions,0,0.8,1.2,PR,,,,1,"$0,0.00",,,pr total hills
+85,0,Impressions,0,0.8,1.2,Sponsorships,,,,1,"$0,0.00",,,sponsorships
+86,0,Impressions,0,0.8,1.2,OOH,,,,1,"$0,0.00",,,ooh

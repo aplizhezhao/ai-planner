@@ -1,0 +1,5 @@
+KpiName,ID,SortOrder,EfficiencyMetric,OptimizationObjective,Multiplier
+Margin,1,1,roi,Maximize,1.0
+Volume (Lbs),2,3,roi,Maximize,1.0
+Households,3,2,roi,Maximize,1000.0
+Net Sales,4,4,roi,Maximize,1.0

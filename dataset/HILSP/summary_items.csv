@@ -1,0 +1,28 @@
+SummaryId,Id,Name,SortOrder
+1,1,SD,1
+1,2,PD,2
+1,3,Equity,3
+2,4,Addressable TV,4
+2,5,Paid Search and PMAX,17
+2,6,eComm HLM,11
+2,7,Vet Non-Media Marketing,26
+2,8,CTV,7
+2,9,Print,19
+2,10,Digital Audio,8
+2,11,CTS,6
+2,12,Digital Display,9
+2,13,Digital Video,10
+2,14,Influencers and PR,14
+2,15,Linear TV,16
+2,16,eComm Promotions,12
+2,17,Coupons,5
+2,18,PSS Promos,23
+2,19,eComm RLM,13
+2,20,Paid Social,18
+2,21,Professional Digital,20
+2,22,Professional Print,21
+2,23,Professional Social,22
+2,24,Staff Feeding,25
+2,25,Kits,15
+2,26,PSS RLM,24
+2,27,PSS HLM,27

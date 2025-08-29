@@ -1,0 +1,82 @@
+ID,Driver,Minimum Spend,Maximum Spend,Constraint Type (Percentage/Absolute)
+1,Addressable TV - Masterbrand,80,120,Percentage
+2,Addressable TV - PD Equity,80,120,Percentage
+76,Addressable TV - Silent Sufferers,80,120,Percentage
+3,Amazon Digital,80,120,Percentage
+4,Amazon RLM,80,120,Percentage
+5,Amazon Search,80,120,Percentage
+6,Amazon VPC,80,120,Percentage
+7,Chewy Hill's-Led Media,80,120,Percentage
+8,Chewy Promos,80,120,Percentage
+9,Chewy RLM,80,120,Percentage
+10,Consumer Print - Masterbrand,80,120,Percentage
+62,CTS - Digital Video,80,120,Percentage
+63,CTS - Linear TV,80,120,Percentage
+64,CTS - Paid Social,80,120,Percentage
+11,CTV - Hulu - Masterbrand,80,120,Percentage
+12,CTV - Hulu - PD Equity,80,120,Percentage
+13,CTV - Hulu - SD Equity,80,120,Percentage
+77,CTV - Hulu - Silent Sufferers,80,120,Percentage
+83,CTV - Hulu - Switchers,80,120,Percentage
+14,CTV - Hulu - Weight,80,120,Percentage
+15,CTV - Other - Masterbrand,80,120,Percentage
+16,CTV - Other - PD Equity,80,120,Percentage
+17,CTV - Other - SD Equity,80,120,Percentage
+68,CTV - Other - Silent Sufferers,80,120,Percentage
+56,CTV - Other - Switchers,80,120,Percentage
+18,CTV - Other - Weight,80,120,Percentage
+65,Digital Audio - Masterbrand,80,120,Percentage
+19,Digital Display - Masterbrand,80,120,Percentage
+66,Digital Display - PD Equity,80,120,Percentage
+20,Digital Display - PD Handraiser,80,120,Percentage
+67,Digital Display - SD Equity,80,120,Percentage
+21,Digital Display - SD Handraiser,80,120,Percentage
+69,Digital Display - Silent Sufferers,80,120,Percentage
+57,Digital Display - Specialty Tentpole,80,120,Percentage
+22,Digital Display - Weight,80,120,Percentage
+70,Digital Video - Silent Sufferers,80,120,Percentage
+58,Digital Video - Switchers,80,120,Percentage
+59,Influencers,80,120,Percentage
+23,Linear TV - Masterbrand,80,120,Percentage
+24,NPPP Kits,80,120,Percentage
+86,OOH,80,120,Percentage
+25,Other Digital Video - SD Equity,80,120,Percentage
+78,Other Digital Video - Silent Sufferers,80,120,Percentage
+26,Paid Search - Masterbrand,80,120,Percentage
+27,Paid Search - PD,80,120,Percentage
+28,Paid Search - SD,80,120,Percentage
+29,Paid Social - Masterbrand,80,120,Percentage
+30,Paid Social - Other,80,120,Percentage
+31,Paid Social - PD Equity,80,120,Percentage
+32,Paid Social - PD Handraiser,80,120,Percentage
+33,Paid Social - SD Equity,80,120,Percentage
+34,Paid Social - SD Handraiser,80,120,Percentage
+71,Paid Social - Silent Sufferers,80,120,Percentage
+60,Paid Social - Specialty Tentpole,80,120,Percentage
+61,Paid Social - Switchers,80,120,Percentage
+35,Paid Social - Weight,80,120,Percentage
+36,PD Chewy RLM,80,120,Percentage
+37,PD Coupons,80,120,Percentage
+38,PD Professional Digital,80,120,Percentage
+39,PD Professional Print,80,120,Percentage
+40,PD Professional Social,80,120,Percentage
+41,PD Promotions,80,120,Percentage
+42,PD Sampling,80,120,Percentage
+43,PMAX - PD,80,120,Percentage
+44,PMAX - SD,80,120,Percentage
+81,PMT Hills-Led Media,80,120,Percentage
+45,PMT Promos,80,120,Percentage
+46,PMT RLM,80,120,Percentage
+84,PR,80,120,Percentage
+80,PTC Hills-Led Media,80,120,Percentage
+47,PTC Promos,80,120,Percentage
+48,PTC RLM,80,120,Percentage
+49,SD Coupons,80,120,Percentage
+85,Sponsorships,80,120,Percentage
+50,Staff Feeding,80,120,Percentage
+51,Vet Non-Media Marketing,80,120,Percentage
+52,YouTube - Masterbrand,80,120,Percentage
+53,YouTube - PD Equity,80,120,Percentage
+54,YouTube - SD Equity,80,120,Percentage
+79,YouTube - Silent Sufferers,80,120,Percentage
+55,YouTube - Weight,80,120,Percentage
